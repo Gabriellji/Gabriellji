@@ -1,4 +1,7 @@
+![banner](https://github.com/Gabriell/jh3yGabriellji/raw/main/assets/header-banner.jpg)
+
 ### Hi there 👋
+
 
 <!--
 **Gabriellji/Gabriellji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
