@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/Gabriellji/Gabriellji/blob/main/assets/header-banner.jpg?raw=true" alt="banner"/>
+  <img src="https://github.com/Gabriellji/Gabriellji/blob/main/assets/2.jpg?raw=true" alt="banner"/>
 </p>
 <h1 align='center'> Hi!</h1>
 <p align='center'>
 I'm Zheniya.
 </p>
-<p align='center'>I'm a Front End Web Developer from Belarus. I'm also currently studying Back End side in European tech school <a href="https://www.wildcodeschool.com/en-GB">Wild Code School</a>. <br/>Specialization: JavaScript, React, Nodejs. <br/>For any questions feel free to reach me out on <a href="https://www.linkedin.com/in/evgeniya-gabrikova/">Linkedin</a>.</p>
+<p align='center'>I'm a Front End Web Developer from Belarus.<br/> I'm also currently studying Back End side in European tech school <a href="https://www.wildcodeschool.com/en-GB">Wild Code School</a>. <br/>Specialization: JavaScript, React, Nodejs. <br/>For any questions feel free to reach me out on <a href="https://www.linkedin.com/in/evgeniya-gabrikova/">Linkedin</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 <p align="center">
