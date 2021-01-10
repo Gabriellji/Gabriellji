@@ -1,4 +1,4 @@
-![banner](https://github.com/Gabriell/jh3yGabriellji/raw/main/assets/header-banner.jpg)
+![banner](https://github.com/Gabriellji/Gabriellji/blob/main/assets/header-banner.jpg?raw=true)
 
 ### Hi there 👋
 
