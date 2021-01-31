@@ -5,7 +5,7 @@
 <p align='center'><samp>
 I'm Zheniya.
 </p>
-<p align='center'><samp>I'm a Front End Web Developer from Belarus.<br/> I'm also currently studying Back End side in European tech school <a href="https://www.wildcodeschool.com/en-GB">Wild Code School</a>. <br/>Specialization: JavaScript, React, Nodejs. <br/>For any questions feel free to reach me out on <a href="https://www.linkedin.com/in/evgeniya-gabrikova/">Linkedin</a>.</p>
+<p align='center'><samp>I'm a Full Stack Developer from Belarus.<br/>Specialization: JavaScript, React, Nodejs, Express, MongoDB, MySQL <br/>For any questions feel free to reach me out on <a href="https://www.linkedin.com/in/evgeniya-gabrikova/">Linkedin</a>.</p>
 
 <h1 align='center'><samp><i>Stay awesome!</i></h1>
 <p align="center">
