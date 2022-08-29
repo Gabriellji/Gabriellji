@@ -5,7 +5,7 @@
 <p align='center'><samp>
 I'm Zheniya.
 </p>
-<p align='center'><samp>I'm a Full Stack Developer from Belarus.<br/>Specialization: JavaScript, Nodejs<br/>For any questions feel free to reach me out on <a href="https://www.linkedin.com/in/evgeniya-gabrikova/">Linkedin</a>.</p>
+<p align='center'><samp>I'm a Full Stack Web Developer.<br/>Specialization: JavaScript, Nodejs<br/>For any questions feel free to reach me out on <a href="https://www.linkedin.com/in/evgeniya-gabrikova/">Linkedin</a>.</p>
 
 <p align="center">
   <img src="https://github.com/Gabriellji/Gabriellji/blob/main/assets/avatar.png?raw=true" alt="avatar"/>
